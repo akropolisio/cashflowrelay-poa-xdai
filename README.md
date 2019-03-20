@@ -35,6 +35,7 @@
 - ```npm run compile-contracts``` for build contracts
 - ```npm run deploy-contracts``` for deploy contracts
 - ```npm run compile-deploy-contracts``` for build and deploy contracts
+- *add `-- --network xdai` for deploy into the xDai*
 
 ### To start test
 - ```npm test``` or ```npm t``` for start test, before that you need start network (```npm run ganache-cli```)
